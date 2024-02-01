@@ -1,2 +1,2 @@
 # LeetCode
-My LeetCode solutions
+These are my LeetCode solutions, they are probably not optimal.
