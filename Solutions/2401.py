@@ -13,7 +13,7 @@ class Solution:
                 cur ^= nums[l]
                 l += 1
 
-            cur |= nums[l]
+            cur |= nums[r]
             res = max(res, r - l + 1)
 
         return res
